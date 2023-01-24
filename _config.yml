@@ -3,7 +3,7 @@ destination: ./_site
 includes:    ./_includes
 # baseurl: /~msaveski
 baseurl:
-url: ziems.github.io
+url: www.ziems.github.io
 
 collections:
   projects:
