@@ -1,8 +1,14 @@
 papers:
 
-  - title: "Large Language Models are Built-in Autoregressive Search Engines"
-    authors: "<b>Noah Ziems</b>, Wenhao Yu, Zhihan Zhang, Meng Jiang"
-    venue: "Submitted to ACL 2023"
+  - title: "Parathyroid Tumor Detection with Machine Learning "
+    authors: "<b>Noah Ziems</b>, Jim Norman, Shaoen Wu"
+    venue: "IEEE Globecom 2021"
+    # paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
+    selected: y
+
+  - title: "Security Vulnerability Detection Using Natural Language Processing"
+    authors: "<b>Noah Ziems</b>, Shaoen Wu"
+    venue: "IEEE Infocom 2021"
     # paper_pdf: "/assets/publications/2022_newsbridge/paper.pdf"
     selected: y
 
